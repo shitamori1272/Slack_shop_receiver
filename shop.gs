@@ -62,7 +62,6 @@ function doPost(e) {
         "text": "注文をキャンセル",
         "type": "button",
         "value": price
-        
       }**/
       ],
       "image_url":image_url
